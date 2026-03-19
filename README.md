@@ -46,3 +46,9 @@ Ready to remove limits and scale your AI revenue operations?
 
 Start earning today with the verified demo: [Try Free on Hugging Face](https://huggingface.co/spaces/profit-agent/demo)
 ```
+
+## Free Tier + Stripe
+
+Free with limits (5 uses/day). Upgrade for unlimited via Stripe checkout.
+
+[Get unlimited](https://buy.stripe.com/test_xxx)
