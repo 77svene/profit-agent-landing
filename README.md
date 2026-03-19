@@ -102,3 +102,8 @@ Need help integrating the Stripe webhooks or debugging the agent?
 ---
 
 *Made with ❤️ by the Profit Agent Team*
+
+## Monetization
+- **Free Tier**: 5 uses/day
+- **Pro Tier**: $9.99/mo (Unlimited)
+- **Checkout**: [Upgrade Now](https://gumroad.com/l/profit-agent-pro)
