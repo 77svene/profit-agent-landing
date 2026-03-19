@@ -54,3 +54,6 @@ Remove all limits and unlock your full earning potential.
 **Your first profitable AI product is 60 seconds away.**  
 Launch today. Get paid tomorrow.
 ```
+
+## Pricing
+Free tier: 5 uses/day. Upgrade for unlimited via payment.
