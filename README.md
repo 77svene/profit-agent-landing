@@ -52,3 +52,6 @@ Start earning today with the verified demo: [Try Free on Hugging Face](https://h
 Free with limits (5 uses/day). Upgrade for unlimited via Stripe checkout.
 
 [Get unlimited](https://buy.stripe.com/test_xxx)
+
+## Monetization
+Free tier: 5 uses/day. [Upgrade for unlimited](https://buy.stripe.com/test) via Stripe. No crypto.
