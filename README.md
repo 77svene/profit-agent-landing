@@ -55,3 +55,6 @@ Free with limits (5 uses/day). Upgrade for unlimited via Stripe checkout.
 
 ## Monetization
 Free tier: 5 uses/day. [Upgrade for unlimited](https://buy.stripe.com/test) via Stripe. No crypto.
+
+## Free Tier + Upgrade
+5 uses/day free. Upgrade for unlimited via payment link.
