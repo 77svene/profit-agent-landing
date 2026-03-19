@@ -18,3 +18,8 @@ Every use case turns ideas into automated income streams through instant launch 
 
 ## Primary Use Case
 Generate high-converting landing page copy in seconds that converts visitors into customers
+
+## Pricing & Access
+**Free tier**: 5 uses per day with usage limits.
+**Upgrade for unlimited** — secure checkout via Stripe (no crypto).
+[Get Unlimited Access](https://buy.stripe.com/test_placeholder)
