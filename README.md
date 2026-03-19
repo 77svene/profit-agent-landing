@@ -251,3 +251,13 @@ Access the standard version of Profit Agent.
 Get unlimited daily uses and advanced features.
 [Upgrade to Unlimited](`YOUR_STRIPE_UPGRADE_LINK_HERE`)
 ```
+
+## USE CASE
+
+Automate code review tasks instantly with AI-powered analysis. Free tier available (5 uses/day).
+
+## MONETIZATION
+
+Upgrade for unlimited access via Stripe checkout.
+
+[Upgrade Now](#checkout)
