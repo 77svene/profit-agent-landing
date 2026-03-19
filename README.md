@@ -65,3 +65,10 @@ Free tier: 5 uses/day. [Upgrade for unlimited](https://buy.stripe.com/test) via 
 ### 🚀 Free Tier & Upgrade
 - **Free:** 5 uses/day via GitHub/HF.
 - **Pro:** Unlimited access via Stripe checkout (see [pricing](#)).
+
+**Use Case:** AI tool for analyzing Profit Agent Landing tasks efficiently.
+
+
+### 🚀 Free Tier & Upgrade
+- **Free:** 5 uses/day via GitHub/HF.
+- **Pro:** Unlimited access via Stripe checkout (see [pricing](#)).
