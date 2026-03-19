@@ -57,3 +57,7 @@ Launch today. Get paid tomorrow.
 
 ## Pricing
 Free tier: 5 uses/day. Upgrade for unlimited via payment.
+
+## Free Tier & Upgrade
+- Free: 5 uses/day with usage limits
+- Upgrade for unlimited via Stripe checkout (crypto removed)
