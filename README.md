@@ -23,3 +23,6 @@ Generate high-converting landing page copy in seconds that converts visitors int
 **Free tier**: 5 uses per day with usage limits.
 **Upgrade for unlimited** — secure checkout via Stripe (no crypto).
 [Get Unlimited Access](https://buy.stripe.com/test_placeholder)
+
+## Free Tier
+5 uses/day free. Upgrade for unlimited via Stripe checkout.
